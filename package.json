@@ -1,0 +1,12 @@
+{
+  "name": "loadcsv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kristian Sigston <kristians@reallyenglish.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "shuffle-seed": "^1.1.6"
+  },
+  "type": "module"
+}
